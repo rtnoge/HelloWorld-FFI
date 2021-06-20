@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sea119d386fb495db75ad3a1b89b21b5",
+    "_text_": "Hello World",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s240aa197eac4e958a063273293cf505",
+    "id": "Button1",
+    "ide_onClick": "AS_Button_cbcd415511f54cceb7729ef023bf1315",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "fda182bda9eb4354827e4785ffb2ef9c",
+    "name": "kony.ui.Button",
+    "parent": "flxButton",
+    "pf": "frmHome",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button"
+}
